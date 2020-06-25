@@ -1,5 +1,5 @@
 {
-    "users": [{
+    "users": [
         {
             "id": 001,
             "email" : "dummy@dummy.com",
@@ -10,7 +10,7 @@
             "email" : "dummy1@dummy.com",
             "password" : "Secret"
         }
-    }],
+    ],
 	"items": [{
 			"id": 1,
             "name": "Samsung Series 4",
