@@ -7,7 +7,7 @@
         },
         {
             "id": "2",
-            "email": "dummy@dummy.com",
+            "email": "notdummy@dummy.com",
             "password": "secret"
         }
     ],
